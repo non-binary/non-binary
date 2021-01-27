@@ -7,7 +7,7 @@ I'm a non-binary full-stack iOS engineer, generalist, and pixel artist working i
 #### What I'm doing:
 
 - :dollar: I am an iOS engineer at [LEX Markets](https://lex-markets.com).
-- :speech_balloon: I am contributing to open source over on my [@they/them](https://github.com/they-them) account.
+- :speech_balloon: I am contributing to open source over on my [@they-them](https://github.com/they-them) account.
 
 #### What I've done:
 
