@@ -6,7 +6,7 @@ I'm a non-binary full-stack iOS engineer, generalist, and pixel artist working i
 
 #### What I'm doing:
 
-- :dollar: I am currently looking for my next full-time.
+- :dollar: I am currently looking for my next full-time role.
 - :speech_balloon: I am contributing to open source over on my [@they-them](https://github.com/they-them) account.
 
 #### What I've done:
