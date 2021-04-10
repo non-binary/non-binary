@@ -6,7 +6,7 @@ I'm a non-binary full-stack iOS engineer, generalist, and pixel artist working i
 
 #### What I'm doing:
 
-- :dollar: I am currently looking for my next full-time role.
+- :dollar: I am working on mobile automation at [cLabs](https://clabs.co/) building CELO and Valora.
 - :speech_balloon: I am contributing to open source over on my [@they-them](https://github.com/they-them) account.
 
 #### What I've done:
@@ -17,4 +17,4 @@ I'm a non-binary full-stack iOS engineer, generalist, and pixel artist working i
 - :books: I taught iOS development at [Lighthouse Labs](https://lighthouselabs.ca).
 - :tickets: I attended WWDC 2014 on scholarship.
 
-### Want to get in touch? Email [luna@lex-markets.com](mailto:luna@lex-markets.com) or [luna@they-them.dev](mailto:luna@they-them.dev)!
+### Want to get in touch? Email [luna.graysen@clabs.co](mailto:luna.graysen@clabs.co) or [luna@they-them.dev](mailto:luna@they-them.dev)!
