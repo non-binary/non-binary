@@ -1,13 +1,13 @@
-### Hi there, I'm Luna Graysen 👋 
+### Hi there, I'm Luna Kara Graysen 👋 
 
 #### About Me:
 
-I'm a non-binary full-stack iOS engineer, generalist, and pixel artist working in Montreal, Quebec. :canada:
+I'm a non-binary mobile automation engineer, writer, and illustrator working in Montreal, Quebec. :canada:
 
 #### What I'm doing:
 
-- :dollar: I am working on mobile automation at [cLabs](https://clabs.co/) building CELO and Valora.
-- :speech_balloon: I am contributing to open source over on my [@they-them](https://github.com/they-them) account.
+- :dollar: I am working on mobile automation at [cLabs](https://clabs.co/) building Valora and CELO.
+- :pen: I am writing about life on my blog at [noisypigeon.blog](https://noisypigeon.blog).
 
 #### What I've done:
 
@@ -17,4 +17,4 @@ I'm a non-binary full-stack iOS engineer, generalist, and pixel artist working i
 - :books: I taught iOS development at [Lighthouse Labs](https://lighthouselabs.ca).
 - :tickets: I attended WWDC 2014 on scholarship.
 
-### Want to get in touch? Email [luna.graysen@clabs.co](mailto:luna.graysen@clabs.co) or [luna@they-them.dev](mailto:luna@they-them.dev)!
+### Want to get in touch? Email [luna.graysen@clabs.co](mailto:luna.graysen@clabs.co) or [hello@noisypigeon.blog](mailto:hello@noisypigeon.blog)!
