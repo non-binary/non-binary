@@ -10,7 +10,7 @@ My objective in life is to help people. Through my [blog posts](https://noisypig
 
 ## Some facts about me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at augue leo. Proin eget faucibus ipsum. Sed facilisis magna malesuada metus vulputate, eget luctus ligula tristique. Duis fermentum nibh at dignissim rhoncus. Duis interdum facilisis mi ac ullamcorper. Praesent nec elit odio. Suspendisse potenti. Nunc ullamcorper urna molestie, dapibus nulla consequat, dapibus mauris. Curabitur tempus egestas massa, eu fermentum arcu posuere eget. Nulla facilisis dui a porta consectetur. Aliquam erat volutpat. Curabitur non aliquam tortor, in egestas eros. Quisque auctor semper lobortis. Nulla nulla augue, cursus sed luctus ut, ultricies quis felis. Quisque sit amet enim laoreet, ullamcorper elit et, pellentesque ligula.
+I'm terrible at writing about myself but here we go! I used to be a core contributor on the [Quick](https://github.com/quick/quick) team (under a different name and handle) and I also ran support for the [Jazzy](https://github.com/realm/jazzy) GitHub community. In 2014, I attended WWDC on scholarship and was featured in four different news publications (they're under my deadname so you'll just have to trust me). Before moving to Montreal, I lived in Vancouver then London then Berlin. I now live in the Plateau neighbourhood with my my partner [Milo](https://instagram.com/teawithbees) (who also was the one who did the illustrations btw!) and our calico kitty Herbie. Oh, and I strongly believe that pineapple belongs on pizza (but not with ham. Bacon is where it's at). 
 
 <img align="right" src="https://user-images.githubusercontent.com/6799989/123516417-02fdd880-d66a-11eb-9ca7-42aab70b7513.png">
 
