@@ -2,7 +2,7 @@
 
 ## Hi there! 👋
 
-My name is Kara Graysen (but I'm still known as Luna in some circles). I'm a disabled non-binary person living in Montreal, Canada. I'm a senior iOS engineer with a specialization in CI/CD and mobile automation. I have been working in tech (as a support agent, engineer, architect, and more) and, in that time, I've worked for multiple big names such as [CircleCI](https://circleci.com), [Travis CI](https://travis-ci.com) and [Bitrise](https://bitrise.io) among others.
+My name is Kara Graysen (but I'm still known as Luna in some circles). I'm a disabled non-binary person living in Montreal, Canada. I'm a senior iOS engineer with a specialization in CI/CD and mobile automation. I have been working in tech and, in that time, I've worked for multiple big names such as [CircleCI](https://circleci.com), [Travis CI](https://travis-ci.com) and [Bitrise](https://bitrise.io) among others.
 
 My objective in life is to help people. Through my [blog posts](https://noisypigeon.blog), side projects and in my full-time job, my interest is most piqued when I'm working on something that will have an impact on people's lives. Now I'm working on: [Valora](https://valoraapp.com), a Venmo-*like* app for underserved communities and Pigeon Documents, a document editor that focuses on accessibility and providing a great experience for everyone.
 
