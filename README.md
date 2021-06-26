@@ -1,13 +1,23 @@
-### Hi there! 👋 
+<img align="right" src="https://user-images.githubusercontent.com/6799989/123516307-6cc9b280-d669-11eb-82f6-16c3cdf018f9.png">
 
-My name is Kara Graysen (but I'm known as Luna at work). I'm a non-binary person living in Montreal and I work at [cLabs](https://clabs.co) where I'm currently building our new CI/CD solution for [Valora](https://valoraapp.com). I spend my free time writing on my [blog](https://noisypigeon.blog) and drawing pigeons on my iPad.
+### Hi there! 👋
 
-Here are some noteworthy facts about myself:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at augue leo. Proin eget faucibus ipsum. Sed facilisis magna malesuada metus vulputate, eget luctus ligula tristique. Duis fermentum nibh at dignissim rhoncus. Duis interdum facilisis mi ac ullamcorper. Praesent nec elit odio. Suspendisse potenti. Nunc ullamcorper urna molestie, dapibus nulla consequat, dapibus mauris. Curabitur tempus egestas massa, eu fermentum arcu posuere eget. Nulla facilisis dui a porta consectetur. Aliquam erat volutpat. Curabitur non aliquam tortor, in egestas eros. Quisque auctor semper lobortis. Nulla nulla augue, cursus sed luctus ut, ultricies quis felis. Quisque sit amet enim laoreet, ullamcorper elit et, pellentesque ligula.
 
-- :euro: I used to work at [Bitrise](https://bitrise.io), [PSPDFKit](https://pspdfkit.com), [Travis CI](https://travis-ci.com), [CircleCI](https://circleci.com) and [Realm](https://realm.io).
-- :dancer: I used to be a core contributor on the [Quick](https://github.com/quick/quick) team.
-- :trumpet: I used to do volunteer support for the [Jazzy](https://github.com/realm/jazzy) GitHub community.
-- :books: I used to teach iOS development at [Lighthouse Labs](https://lighthouselabs.ca).
-- :tickets: I attended WWDC 2014 on scholarship.
+<img align="left" src="https://user-images.githubusercontent.com/6799989/123516387-cf22b300-d669-11eb-93b5-f1636c19afed.png">
 
-Want to get in touch? Please email [luna.graysen@valoraapp.com](mailto:luna.graysen@valoraapp.com) for cLabs/Valora related requests or [kara@noisypigeon.blog](mailto:kara@noisypigeon.blog) for personal/non work related ones.
+### Some facts about me
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at augue leo. Proin eget faucibus ipsum. Sed facilisis magna malesuada metus vulputate, eget luctus ligula tristique. Duis fermentum nibh at dignissim rhoncus. Duis interdum facilisis mi ac ullamcorper. Praesent nec elit odio. Suspendisse potenti. Nunc ullamcorper urna molestie, dapibus nulla consequat, dapibus mauris. Curabitur tempus egestas massa, eu fermentum arcu posuere eget. Nulla facilisis dui a porta consectetur. Aliquam erat volutpat. Curabitur non aliquam tortor, in egestas eros. Quisque auctor semper lobortis. Nulla nulla augue, cursus sed luctus ut, ultricies quis felis. Quisque sit amet enim laoreet, ullamcorper elit et, pellentesque ligula.
+
+<img align="right" src="https://user-images.githubusercontent.com/6799989/123516417-02fdd880-d66a-11eb-9ca7-42aab70b7513.png">
+
+### Pigeon Documents
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at augue leo. Proin eget faucibus ipsum. Sed facilisis magna malesuada metus vulputate, eget luctus ligula tristique. Duis fermentum nibh at dignissim rhoncus. Duis interdum facilisis mi ac ullamcorper. Praesent nec elit odio. Suspendisse potenti. Nunc ullamcorper urna molestie, dapibus nulla consequat, dapibus mauris. Curabitur tempus egestas massa, eu fermentum arcu posuere eget. Nulla facilisis dui a porta consectetur. Aliquam erat volutpat. Curabitur non aliquam tortor, in egestas eros. Quisque auctor semper lobortis. Nulla nulla augue, cursus sed luctus ut, ultricies quis felis. Quisque sit amet enim laoreet, ullamcorper elit et, pellentesque ligula.
+
+<br />
+
+### Want to get in touch?
+
+Please email [noisypigeon@pm.me](mailto:noisypigeon@pm.me) or message me on Discord at @noisypigeon#2023. For cLabs/Valora related requests, email [luna.graysen@valoraapp.com](mailto:luna.graysen@valoraapp.com).
