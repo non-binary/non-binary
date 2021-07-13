@@ -1,4 +1,4 @@
-![Artboard2](https://user-images.githubusercontent.com/6799989/125539820-7d4eafa6-42b6-4cb6-959c-4f02c4898dce.png)
+<img src="https://user-images.githubusercontent.com/6799989/125539874-fdbae42a-9e6b-4c49-8dcc-019cc4f9896d.png" width="200" height="200">
 
 **Hi there!** I'm Kara - a non-binary software engineer from Montréal, Canada. :wave: 
 
