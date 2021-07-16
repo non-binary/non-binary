@@ -25,13 +25,11 @@ I use several tools to help me build Pigeon Documents. They are:
 | Tool                     | Cost            | Explanation                                                       |
 | :----------------------- | :-------------- | :---------------------------------------------------------------- |
 | Bitrise Teams            | USD $35.00      | For continuous integration with Xcode 13 machines.                |
-| Sentry Teams             | USD $29.00      | For crash log reporting and error monitoring.                     |
-| Netlify Pro              | USD $19.00      | For deploying pigeon.community and product splash pages.          |
 | Sketch Standard          | USD $9.00       | For creating design mockups.                                      |
 | Google Business Starter  | USD $6.23       | For access to email and calendar.                                 |
 | Medium Membership        | USD $5.00       | For access to premium posts for research and debugging.           |
 | GitHub Pro               | USD $4.00       | For access to important GitHub features for private repositories. |
-| **Total**                | **USD $107.23** |                                                                   |
+| **Total**                | **USD $59.23** |                                                                   |
     
 </details>
 
