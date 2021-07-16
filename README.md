@@ -29,7 +29,7 @@ I use several tools to help me build Pigeon Documents. They are:
 | Google Business Starter  | USD $6.23       | For access to email and calendar.                                 |
 | Medium Membership        | USD $5.00       | For access to premium posts for research and debugging.           |
 | GitHub Pro               | USD $4.00       | For access to important GitHub features for private repositories. |
-| **Total**                | **USD $59.23** |                                                                   |
+| **Total**                | **USD $59.23**  |                                                                   |
     
 </details>
 
